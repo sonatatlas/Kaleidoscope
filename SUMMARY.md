@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Terminology](./terminology.md)
+* [Terminology](./src/terminology.md)
 

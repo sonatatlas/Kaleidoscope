@@ -1,7 +1,7 @@
 # Introduction
 
 ![problems](./assets/sunrise.jpg)
-+ [Terminology|区块链术语表](/terminology.md)
++ [Terminology|区块链术语表](/src/terminology.md)
 
 ## Reference Links
 + [区块链相关术语表](1)
