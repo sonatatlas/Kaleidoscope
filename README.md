@@ -4,9 +4,9 @@
 + [Terminology|区块链术语表](/src/terminology.md)
 
 ## Reference Links
-+ [区块链相关术语表](1)
-+ [区块链术语](2)
-+ [区块链技术基础](3)
++ [区块链相关术语表][1]
++ [区块链术语][2]
++ [区块链技术基础][3]
 
 ## Contact
 + [Github](https://github.com/udtrokia/boos)
