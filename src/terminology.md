@@ -3,9 +3,9 @@
 
 | EN                          | 中文                             |
 |-----------------------------|----------------------------------|
-| [\d]                        |                                  |
+| __\d__                      |                                  |
 | 51% Attack                  | 51%攻击                          |
-| ^A                          |                                  |
+| __A__                       |                                  |
 | Accounts                    | 账户                             |
 | Address                     | 地址                             |
 | AES                         | 高级加密标准                     |
@@ -21,7 +21,7 @@
 | Assembling                  | 集合                             |
 | Attacks                     | 攻击                             |
 | Auxiliary blockchain        | 辅链                             |
-| ^B                          |                                  |
+| __B__                       |                                  |
 | Balances                    | 余额                             |
 | Bandwidth                   | 带宽                             |
 | Base58 Check encoding       | Base58Check编码                  |
@@ -51,13 +51,13 @@
 | Brain wallet                | 脑钱包                           |
 | Bytes                       | 字节                             |
 | Byzantine fault-tolerant    | 拜占庭容错                       |
-| ^C                          |                                  |
+| __C__                       |                                  |
 | Central Ledger              | 中央账簿                         |
 | Confirmation                | 确认                             |
 | Consensus                   | 共识                             |
 | Cryptocurrency              | 加密货币                         |
 | Cryptographic Hash Function | 加密哈希函数                     |
-| ^D                          |                                  |
+| __D__                       |                                  |
 | Dapp                        | 去中心化应用                     |
 | DAO                         | 去中心化自治组织                 |
 | Distributed Ledger          | 分布式账本                       |
@@ -65,38 +65,38 @@
 | Difficulty                  | 容易程度                         |
 | Digital Signature           | 数字加密                         |
 | Double Spending             | 双重支付                         |
-| ^E                          |                                  |
+| __E__                       |                                  |
 | Ethereum                    | 以太坊                           |
 | EVM                         | 以太坊虚拟机                     |
-| ^F                          |                                  |
+| __F__                       |                                  |
 | Fork                        | 分支                             |
-| ^G                          |                                  |
+| __G__                       |                                  |
 | Genesis Block               | 创世区块                         |
-| ^H                          |                                  |
+| __H__                       |                                  |
 | Hash Fork                   | 硬分叉                           |
 | Hash                        | 哈希                             |
 | Hash Rate                   | 哈希率                           |
 | Hybrid Pos/Pow              | 混合 Pow / Pow                   |
-| ^M                          |                                  |
+| __M__                       |                                  |
 | Mining                      | 挖矿                             |
 | Multi-Signature             | 多重签名                         |
-| ^O                          |                                  |
+| __O__                       |                                  |
 | Oracles                     | 预言机                           |
-| ^P                          |                                  |
+| __P__                       |                                  |
 | Peer to Peer                | 点对点                           |
 | Public Address              | 公用地址                         |
 | Private Key                 | 私钥                             |
 | Proof of Stake              | 工作证明                         |
-| ^S                          |                                  |
+| __S__                       |                                  |
 | Scrypt                      | #Litecoin 的一种加密算法         |
 | SHA-256                     | #Bitcoin 使用的加密算法          |
 | Smart Contracts             | 智能合约                         |
 | Solidity                    | #Ethereum 开发智能合约的编程语言 |
-| ^T                          |                                  |
+| __T__                       |                                  |
 | Testnet                     | 测试网络                         |
 | Transaction Block           | 交易区块                         |
 | Transaction Fee             | 手续费                           |
 | Turing Complete             | 图灵完备                         |
-| ^W                          |                                  |
+| __W__                       |                                  |
 | Wallet                      | 钱包                             |
 
