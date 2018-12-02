@@ -1,0 +1,12 @@
+[package]
+name = "Kaleidoscope-llvm"
+version = "0.1.0"
+authors = ["mercury <udtrokia@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+llvm-sys = "*"
+regex = "*"
+regex_macros = "*"
+docopt = "1.0.2"
+rustc-serialize = "0.3.24"
