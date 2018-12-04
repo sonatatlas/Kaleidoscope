@@ -1,3 +1,9 @@
+extern crate k_rust;
+use k_rust::lexer;
+
 fn main() {
-    println!("Hello, world!");
+    let a = "hello";
+    let res = lexer::tokenize(a);
+
+    println!("{:?}", res);
 }

@@ -1,12 +1,11 @@
 [package]
-name = "Kaleidoscope-llvm"
+name = "k-rust"
 version = "0.1.0"
 authors = ["mercury <udtrokia@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-llvm-sys = "*"
-regex = "*"
-regex_macros = "*"
+llvm-sys = "70"
+regex = "1.1.0"
 docopt = "1.0.2"
 rustc-serialize = "0.3.24"

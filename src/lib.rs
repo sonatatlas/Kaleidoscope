@@ -1,1 +1,4 @@
-mod lexer;
+extern crate regex;
+
+pub mod lexer;
+
