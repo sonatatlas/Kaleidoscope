@@ -2,8 +2,8 @@ extern crate k_rust;
 use k_rust::lexer;
 
 fn main() {
-    let a = "hello";
-    let res = lexer::tokenize(a);
+    let word = "hello";
+    let tokens = lexer::tokenize(word);
 
-    println!("{:?}", res);
+    println!("{:?}", tokens[0]);
 }
